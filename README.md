@@ -57,11 +57,6 @@ sudo python3 socialFIND.py -d [username]
 
 ## Example script
 ```python
-# -*- coding: utf-8 -*-
-# Author : Dimitrios Zacharopoulos
-# All copyrights to Obipixel Ltd
-# 30 March 2023
-
 #!/usr/bin/env python3
 
 import requests
